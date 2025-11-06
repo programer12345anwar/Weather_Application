@@ -1,0 +1,15 @@
+# Ignore build junk
+target/
+node_modules/
+*.log
+*.tmp
+*.class
+
+# Ignore frontend completely (if not needed)
+../weather-api-frontend/
+
+# Git and IDE
+.git
+.gitignore
+.idea
+.vscode
