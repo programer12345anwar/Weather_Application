@@ -2,6 +2,9 @@
 
 <span style="color:#2196F3"><b>A simple and efficient Weather API built using Spring Boot that provides real-time weather details for any city worldwide using the Weatherstack API.</b></span>
 
+<img width="1920" height="868" alt="screencapture-weather-api-nine-topaz-vercel-app-2025-12-01-19_47_54" src="https://github.com/user-attachments/assets/e003044c-4070-4edd-b5f5-04a10fcb16c6" />
+
+
 🔗 <span style="color:#FF9800">Repository</span>
 
 🔗 https://github.com/programer12345anwar/weather-api
