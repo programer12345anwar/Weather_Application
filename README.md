@@ -68,7 +68,7 @@ GET /weather?city=London
 
 👤 <span style="color:#009688">Author</span>
 
-MD Anwar Alam
+Md Anwar Alam
 Java & Spring Boot Developer
 
 📜 <span style="color:#607D8B">License</span>
